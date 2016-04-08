@@ -8,7 +8,7 @@ A move and sort application built using Python3 to clean up cluttered Windows de
 3. Run DeskSweeper.exe
 4. Done
 
-Will create directory structure:</br>
+<strong>Will create directory structure</strong></br>
 DeskSweep/</br>
 DeskSweep/Images/</br>
 DeskSweep/Audio/</br>
