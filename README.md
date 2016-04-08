@@ -1,14 +1,14 @@
 # DeskSweeper
 A move and sort application built using Python3 to clean up cluttered Windows desktops
 
-<strong>How To</strong>
+<strong>How To:</strong>
 
 1. Download DeskSweeper.exe
 2. Move DeskSweeper.exe to location you wish to tidy (commonly the Desktop)
 3. Run DeskSweeper.exe
 4. Done
 
-<strong>Will create directory structure</strong>
+<strong>Will create directory structure:</strong>
 
 
 DeskSweep/</br>
