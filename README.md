@@ -20,7 +20,7 @@ DeskSweep/Documents/</br>
 DeskSweep/Programs/</br>
 DeskSweep/Databases/</br>
 DeskSweep/Scripts/</br></br>
-with files sorted accoringly. 
+with files sorted accordingly. 
 
 Notice!</br>
 This is highly experimental. Use at your own risk. 
