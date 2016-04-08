@@ -1,7 +1,7 @@
 # DeskSweeper
 A move and sort application built using Python3 to clean up cluttered Windows desktops
 
-<h3>Download here</h3>: https://github.com/ghar/DeskSweeper/releases
+<h4>Download here:</h4> https://github.com/ghar/DeskSweeper/releases
 
 <strong>How To:</strong>
 
