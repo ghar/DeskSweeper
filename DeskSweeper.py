@@ -84,7 +84,6 @@ migratedFiles = 0
 duplicateFiles = 0
 
 def makeFolder(filetypes):
-    #for directory in list(filetypes.keys()):
     for directory in filetypes:
         try:
             os.makedirs(rootDir + directory)
